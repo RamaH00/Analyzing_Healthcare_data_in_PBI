@@ -1,10 +1,8 @@
-# Analyzing_Healthcare_data_in_PBI
-
-# Healthcare Data Analysis in Power BI - Case Study
+# Analyzing Healthcare data in PBI
 
 This repository contains a Power BI case study analyzing New York State hospital discharge data, focusing on elective hip replacement surgical inpatient stays. The analysis explores key metrics like Length of Stay (LOS), costs, and patient outcomes across different hospitals and regions.
 
-## Project Overview
+## 📌 Project Overview
 
 The project uses Power BI to visualize and analyze healthcare data from New York State hospitals, with a focus on:
 - Length of Stay (LOS) comparisons across hospitals
@@ -12,7 +10,7 @@ The project uses Power BI to visualize and analyze healthcare data from New York
 - Hospital performance profiles
 - Key influencers on healthcare metrics
 
-## Data Sources
+## 📂 Data Sources
 
 The analysis uses hospital discharge data containing:
 - Facility information (name, location, certification)
@@ -21,7 +19,7 @@ The analysis uses hospital discharge data containing:
 - Financial data (total charges, total costs)
 - Outcome metrics (length of stay, patient disposition)
 
-## Key Visualizations
+## 📊 Key Visualizations
 
 1. **LOS Comparison Dashboard**
    - Average LOS Days vs Total Discharges by hospital
@@ -40,7 +38,7 @@ The analysis uses hospital discharge data containing:
      - Diagnosis categories
      - Patient disposition
 
-## Key Findings
+## 🔑 Key Findings
 
 - Average LOS for elective hip replacements: 2.65 days
 - Total hospitals analyzed: 151
